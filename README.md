@@ -1,5 +1,6 @@
 # Tic-Tac-ToeGame
-![image](https://github.com/AlexaTesla/massivGame/blob/main/Tic-Tac-ToeGame.jpg)
+
+![image](https://github.com/AlexaTesla/Tic-Tac-ToeGame/blob/main/code.gif)
 
 ***Instruction:***
 
@@ -13,3 +14,5 @@ X (english and big) or 0 (zero).
 7. Once you have matched 3 symbols (horizontally, vertically or diagonally) the game will end.
 
 ***Have a good game!***
+
+![image](https://github.com/AlexaTesla/massivGame/blob/main/Tic-Tac-ToeGame.jpg)
