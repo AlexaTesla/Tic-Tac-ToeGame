@@ -1,7 +1,7 @@
 # Tic-Tac-ToeGame
 ![image](https://github.com/AlexaTesla/massivGame/blob/main/Tic-Tac-ToeGame.jpg)
 
-Instruction:
+__*Instruction:*__
 
 1. Download 3 (.java) files in one folder and run.
 2. The Launch file contains the launch of the program
