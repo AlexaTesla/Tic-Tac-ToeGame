@@ -1,7 +1,5 @@
 # Tic-Tac-ToeGame
 
-![image](https://github.com/AlexaTesla/Tic-Tac-ToeGame/blob/main/code.gif)
-
 ***Instruction:***
 
 1. Download 3 (.java) files in one folder and run.
